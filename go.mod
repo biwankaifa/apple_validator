@@ -1,4 +1,4 @@
-module github.com/pyihe/apple_validator
+module github.com/biwankaifa/apple_validator
 
 go 1.15
 
